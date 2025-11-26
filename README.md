@@ -68,9 +68,7 @@ Trained & compared two top gradient-boosting models:
 
 ---
 
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw1ZzRudGttbzh0dTNxZmJjNmNxdnI3ZDYwM2h5ZWw3emx1dDQyMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YtZOb9EUABnuqA/giphy.gif" width="280"/>
-</div>
+
 
 ---
 
@@ -89,3 +87,4 @@ Trained & compared two top gradient-boosting models:
 git clone https://github.com/<username>/House-Price-Prediction-.git
 cd House-Price-Prediction-
 jupyter notebook
+
